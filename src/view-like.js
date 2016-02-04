@@ -12,7 +12,7 @@ module.exports = function viewAndLike(opts) {
   const concurrency = +opts.concurrency;
   const cutoff = +opts.ratio;
 
-  process.stdout.write(`\nRunning ${times} view/likes with ${cutoff} ration...\n`);
+  process.stdout.write(`\nRunning ${times} view/likes with ${cutoff} ratio...\n`);
 
   let viewed = 0;
   let liked = 0;
