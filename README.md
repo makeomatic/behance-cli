@@ -1,5 +1,7 @@
 # behance-cli
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/makeomatic/behance-cli.svg)](https://greenkeeper.io/)
+
 ```sh
 Vitalys-iMac:behance-cli vitaly$ ./bin/index.js -h
 Usage: bin/index.js <command> [options]
